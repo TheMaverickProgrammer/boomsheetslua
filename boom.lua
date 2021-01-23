@@ -1,5 +1,6 @@
 --[[
     @author TheMaverickProgrammer
+    @github https://github.com/TheMaverickProgrammer/boomsheetslua
     @module boom
     @date 1/23/2021
     @description This is a lua port of the boomsheet animation file format for 2D spritesheets
