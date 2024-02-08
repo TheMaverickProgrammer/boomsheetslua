@@ -17,4 +17,8 @@ end
 
 print("Duration of SHOOT3 is "..anim:duration("SHOOT3"))
 
+anim:refresh("SHOOT3")
+
+print("origin=(x="..anim.currFrame.originx..",y="..anim.currFrame.originy..")")
+
 print("Done")
