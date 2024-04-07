@@ -19,6 +19,7 @@
     anim.curr_frame              -- can access the a copy of the frame's table
     anim.curr_state              -- can access the last set state table ref
     anim.curr_state_name         -- string name of the last set state
+
     anim.states.ATTACK_PUNCH.loop = true -- tell this animation state to loop (default false)
     ```
 --]]
