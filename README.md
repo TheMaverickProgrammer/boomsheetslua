@@ -1,4 +1,11 @@
 # `boomsheetslua`
+> [!TIP] 
+> Download the new VS Code extension for live errors and code highlighting!
+>
+> [![VS Code Download](https://img.shields.io/badge/VS%20Code%20Extension-Download-blue)](https://marketplace.visualstudio.com/items?itemName=ProtoComplete.boomsheets)
+>
+> ![VS Code Extension Preview](./media/preview.png)
+
 This is a PARTIAL lua port of the boomsheet animation file format for 2D spritesheets.
 
 ## Warning
